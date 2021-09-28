@@ -1,0 +1,18 @@
+<!DOCKTYPE html>
+
+<html lang="en">
+    <head>
+        <title>css</title>
+    </head>
+    <body>
+        <header>
+            Kashyap Shahare
+        </header>
+        <main>
+            Welcome to my home page!
+        </main>
+        <footer>
+            copyright (c) Kashyap Shahare
+        </footer>
+    </body>
+</html>

@@ -1,0 +1,15 @@
+<!DOCKTYPE html>
+
+<html lang="en">
+    <head>
+        <title>
+            search
+        </title>
+    </head>
+    <body>
+        <from action="https://www.google.com/search" method="post">
+            <input name="q" type="search">
+            <input type="submit" value="Search">
+        </from>
+    </body>
+</html>

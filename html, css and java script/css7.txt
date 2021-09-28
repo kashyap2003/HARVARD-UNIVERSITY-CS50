@@ -1,0 +1,19 @@
+<!DOCKTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="style.css" rel="stylesheet">
+        <title>css</title>
+    </head>
+    <body class="centered">
+        <header class="large">
+            Kashyap Shahare
+        </header>
+        <main class="medium">
+            Welcome to my home page!
+        </main>
+        <footer class="small">
+            copyright &#169; Kashyap Shahare
+        </footer>
+    </body>
+</html>

@@ -1,0 +1,21 @@
+<!DOCKTYPE html>
+
+<html lang="en">
+    <head>
+        <style>
+
+            #harvard
+            {
+                color: green;
+            }
+        </style>
+        <title>
+            link
+        </title>
+    </head>
+    <body>
+        Visit <a href="https://www.harvard.edu" id="harvard">Harvard</a>
+        or <a href="https://www.yale.edu" id="yale">Yale</a>
+        </a>
+    </body>
+</html>
